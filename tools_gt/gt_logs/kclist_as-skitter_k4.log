@@ -1,0 +1,16 @@
+Reading edgelist from file edgelists/as-skitter.txt
+Number of nodes = 1696415
+Number of edges = 11095298
+- Time = 0h0m1s
+Building the graph structure
+max degree = 111
+Number of nodes = 1696415
+Number of edges = 11095298
+- Time = 0h0m0s
+Iterate over all cliques
+Number of 4-cliques: 148834439
+- Time = 0h0m2s
+- Overall time = 0h0m3s
+real 2.76
+user 2.64
+sys 0.07

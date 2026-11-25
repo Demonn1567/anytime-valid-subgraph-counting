@@ -1,0 +1,16 @@
+Reading edgelist from file edgelists/com-youtube.txt
+Number of nodes = 1134890
+Number of edges = 2987624
+- Time = 0h0m0s
+Building the graph structure
+max degree = 51
+Number of nodes = 1134890
+Number of edges = 2987624
+- Time = 0h0m0s
+Iterate over all cliques
+Number of 5-cliques: 7211947
+- Time = 0h0m0s
+- Overall time = 0h0m0s
+real 0.66
+user 0.64
+sys 0.01

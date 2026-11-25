@@ -1,0 +1,16 @@
+Reading edgelist from file edgelists/com-amazon.txt
+Number of nodes = 334863
+Number of edges = 925872
+- Time = 0h0m1s
+Building the graph structure
+max degree = 6
+Number of nodes = 334863
+Number of edges = 925872
+- Time = 0h0m0s
+Iterate over all cliques
+Number of 3-cliques: 667129
+- Time = 0h0m0s
+- Overall time = 0h0m1s
+real 0.13
+user 0.12
+sys 0.00

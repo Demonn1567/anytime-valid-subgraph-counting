@@ -1,0 +1,16 @@
+com-dblp: load 0.003s build 0.147s
+  com-dblp eps=0.1 done 20:28:03
+  com-dblp eps=0.3 done 20:28:03
+com-amazon: load 0.005s build 0.136s
+  com-amazon eps=0.1 done 20:28:05
+  com-amazon eps=0.3 done 20:28:05
+roadnet-ca: load 0.009s build 0.306s
+  roadnet-ca eps=0.1 done 20:28:29
+  roadnet-ca eps=0.3 done 20:28:31
+com-youtube: load 0.009s build 0.470s
+  com-youtube eps=0.1 done 21:00:40
+  com-youtube eps=0.3 done 21:03:29
+as-skitter: load 0.031s build 2.014s
+  as-skitter eps=0.1 done 22:03:48
+  as-skitter eps=0.3 done 22:09:23
+TIMING_EXIT 0

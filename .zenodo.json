@@ -1,0 +1,27 @@
+{
+  "title": "Anytime-Valid Subgraph Counting: code, raw results and artifact generator (WSDM 2027)",
+  "upload_type": "software",
+  "description": "<p>Code, tests, exact ground truth and raw per-run results for the WSDM 2027 paper <em>Anytime-Valid Subgraph Counting: Confidence Sequences and Adaptive Stopping for Sampling-Based Estimation</em> (Krish Sharma and Jatin Bedi). The script <code>make_paper_artifacts.py</code> regenerates every number, table and figure in the paper from the raw results in <code>results_cr/</code>.</p>",
+  "creators": [
+    {
+      "name": "Sharma, Krish",
+      "affiliation": "Thapar Institute of Engineering and Technology",
+      "orcid": "0009-0005-0128-8151"
+    },
+    {
+      "name": "Bedi, Jatin",
+      "affiliation": "Thapar Institute of Engineering and Technology",
+      "orcid": "0000-0002-9444-6200"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "subgraph counting",
+    "triangle counting",
+    "confidence sequences",
+    "anytime-valid inference",
+    "adaptive stopping",
+    "graph sampling"
+  ],
+  "version": "1.0.0"
+}

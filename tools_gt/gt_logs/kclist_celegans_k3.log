@@ -1,0 +1,16 @@
+Reading edgelist from file edgelists/celegans.txt
+Number of nodes = 453
+Number of edges = 2025
+- Time = 0h0m0s
+Building the graph structure
+max degree = 10
+Number of nodes = 453
+Number of edges = 2025
+- Time = 0h0m0s
+Iterate over all cliques
+Number of 3-cliques: 3284
+- Time = 0h0m0s
+- Overall time = 0h0m0s
+real 0.00
+user 0.00
+sys 0.00

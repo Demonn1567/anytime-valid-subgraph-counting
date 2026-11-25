@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+data/
+tools_gt/edgelists/
+tools_gt/src/
+tools_gt/results/
+tools_gt/peredge/
+paper/

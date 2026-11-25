@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Anytime-Valid Subgraph Counting: code, raw results and artifact generator"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Demonn1567/anytime-valid-subgraph-counting"
+authors:
+  - given-names: Krish
+    family-names: Sharma
+    affiliation: Thapar Institute of Engineering and Technology
+    orcid: "https://orcid.org/0009-0005-0128-8151"
+  - given-names: Jatin
+    family-names: Bedi
+    affiliation: Thapar Institute of Engineering and Technology
+    orcid: "https://orcid.org/0000-0002-9444-6200"
+keywords:
+  - subgraph counting
+  - triangle counting
+  - confidence sequences
+  - anytime-valid inference
+  - adaptive stopping
+  - graph sampling
+preferred-citation:
+  type: conference-paper
+  title: "Anytime-Valid Subgraph Counting: Confidence Sequences and Adaptive Stopping for Sampling-Based Estimation"
+  authors:
+    - given-names: Krish
+      family-names: Sharma
+      orcid: "https://orcid.org/0009-0005-0128-8151"
+    - given-names: Jatin
+      family-names: Bedi
+      orcid: "https://orcid.org/0000-0002-9444-6200"
+  collection-title: "Proceedings of the Twentieth ACM International Conference on Web Search and Data Mining (WSDM 2027)"
+  conference:
+    name: "WSDM 2027"
+    city: "Hong Kong"
+  publisher:
+    name: ACM
+  year: 2027
