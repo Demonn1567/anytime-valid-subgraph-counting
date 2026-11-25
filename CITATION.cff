@@ -3,6 +3,7 @@ message: "If you use this software, please cite the paper below."
 title: "Anytime-Valid Subgraph Counting: code, raw results and artifact generator"
 type: software
 version: 1.0.0
+doi: 10.5281/zenodo.24530637
 license: MIT
 repository-code: "https://github.com/Demonn1567/anytime-valid-subgraph-counting"
 authors:

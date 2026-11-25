@@ -1,5 +1,9 @@
 # Anytime-Valid Subgraph Counting
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24530637.svg)](https://doi.org/10.5281/zenodo.24530637)
+
+Archived release (v1.0.0): https://doi.org/10.5281/zenodo.24530637
+
 Code, tests, exact ground truth and raw per-run results for the WSDM 2027 paper
 
 > Krish Sharma and Jatin Bedi. *Anytime-Valid Subgraph Counting: Confidence
